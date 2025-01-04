@@ -1,4 +1,4 @@
-## Hello Github, it's nice to meet you! 👋
+## Hello Github, it's nice to meet you!
 
 - 👋 Greetings, my name is Ishaan Koradia and I'm an aspiring AI/ML engineer that loves all things data-science centered! I have so much passion for making life easier in any way so I create programs and scripts that are geared to be automations in some shape or form! 
 
