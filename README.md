@@ -1,6 +1,13 @@
 ## Hello Github, it's nice to meet you!
 
-- 👋 Greetings, my name is Ishaan Koradia and I'm an aspiring AI/ML engineer that loves all things data-science centered! I have so much passion for making life easier in any way so I create programs and scripts that are geared to be automations in some shape or form! 
+<!-- Banner Here(?) -->
+
+👋 Greetings, my name is Ishaan Koradia and I'm an aspiring AI/ML engineer that loves all things related to data science! I have so much passion for making life easier in any way so I create programs and scripts that are automations! As of currently, I'm working on my **Bachelors of Science** degree studying both Cognitive Science with a specialization in Machine Learning & Neuro Computation and Data Science at University of California, San Diego! It's here where I'm learning how to apply both **human cognition** and the **foundations of machine learning** (like data optimization through mathematical constructs, database visualization through pandas, etc.) to truly grasp the concept of Artifical Intelligence as a whole! From this coursework to other certifications, I've built various applications that utilize data collection and machine learning algorithms as well! <!-- Transition to tech stack then? -->
+
+<!-- Tech Stack Here */  -->
+
+<!-- - 🤔 Ask Me About -> Into Projects? -->
+<!-- - 📫 How to reach me: ...  -->
 
 <!--
 **ishaankor/ishaankor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
