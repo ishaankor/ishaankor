@@ -12,7 +12,7 @@
 ## 👤 Contact Info:
 
 - ✉️ : ishaankor@gmail.com
-- ![Linkedin](./assets/linkedin-icon.png) : ishaankoradia
+- <img src="./assets/linkedin-icon.png" width="15" height="15"> : ishaankoradia
 -   :
 
 <!-- Tech Stack Here */  -->
