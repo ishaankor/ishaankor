@@ -12,8 +12,8 @@
 ## 👤 Contact Info:
 
 - ✉️ : ishaankor@gmail.com
--    : ishaankoradia
--    :
+-   : ishaankoradia
+-   :
 
 <!-- Tech Stack Here */  -->
 
