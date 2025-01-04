@@ -1,4 +1,4 @@
-# Hello Github, it's nice to meet you!
+# Hello Github, it's nice to meet you! 👋
 
 <!-- Banner Here(?) -->
 
