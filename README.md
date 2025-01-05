@@ -11,11 +11,41 @@
 
 ## 👤 Contact Info:
 
-<div style="text-align: justify">
+<style>
+        .key-value {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .key {
+            display: inline-block;
+            width: 200px; /* Adjust as needed */
+            text-align: right;
+        }
+        .colon {
+            display: inline-block;
+            width: 10px;
+        }
+        .value {
+            display: inline-block;
+        }
+    </style>
+<body>
+    <div class="key-value">
+        <span class="key"> <img src="./assets/gmail-icon.png" width="20" height="15"> </span>
+        <span class="colon">:</span>
+        <span class="value"> <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a> </span>
+    </div>
+    <div class="key-value">
+        <span class="key"> <img src="./assets/linkedin-icon.png" width="20" height="15"> </span>
+        <span class="colon">:</span>
+        <span class="value"> <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a> </span>
+    </div>
+</body>
+<!-- <div style="text-align: justify">
 - <img src="./assets/gmail-icon.png" width="20" height="15"> : <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a>
 <br> 
 - <img src="./assets/linkedin-icon.png" width="15" height="15">  : <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a>
-</div>
+</div> -->
 
 <!-- Tech Stack Here */  -->
 
