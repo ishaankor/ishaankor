@@ -42,7 +42,7 @@
         <span class="value"> <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a> </span>
     </div>
     <div class="key-value">
-        <span class="key"> <img src="./assets/linkedin-icon.png" width="20" height="15"> </span>
+        <span class="key"> <img src="./assets/linkedin-icon.png" width="15" height="15"> </span>
         <span class="colon">:</span>
         <span class="value"> <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a> </span>
     </div>
