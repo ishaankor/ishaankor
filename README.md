@@ -35,24 +35,18 @@
         }
     </style>
 </head> -->
-
-| Key                 | : | Value           |
-|---------------------|---|-----------------|
-| <img src="./assets/gmail-icon.png" width="20" height="15"> | : | <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a> |
-| <img src="./assets/linkedin-icon.png" width="15" height="15"> | : | <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a>
-
-<!-- <body>
+<body>
     <div class="key-value">
         <span class="key"> <img src="./assets/gmail-icon.png" width="20" height="15"> </span>
         <span class="colon">:</span>
         <span class="value"> <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a> </span>
     </div>
     <div class="key-value">
-        <span class="key"> <img src="./assets/linkedin-icon.png" width="15" height="15"> </span>
-        <span class="colon"> :</span>
+        <span class="key"> <img src="./assets/linkedin-icon.png" width="15" height="15">  </span>
+        <span class="colon">:</span>
         <span class="value"> <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a> </span>
     </div>
-</body> -->
+</body>
 <!-- </html> -->
 <!-- <div style="text-align: justify">
 - <img src="./assets/gmail-icon.png" width="20" height="15"> : <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a>
