@@ -47,7 +47,7 @@
         <span class="value"> <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a> </span>
     </div>
 </body>
-</html>
+<!-- </html> -->
 <!-- <div style="text-align: justify">
 - <img src="./assets/gmail-icon.png" width="20" height="15"> : <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a>
 <br> 
