@@ -11,8 +11,10 @@
 
 ## 👤 Contact Info:
 
+<div style="text-align: justify">
 - <img src="./assets/gmail-icon.png" width="20" height="15"> : <a href="mailto:ishaankor@gmail.com" target="_blank">ishaankor@gmail.com</a>
 - <img src="./assets/linkedin-icon.png" width="15" height="15">  : <a href="https://www.linkedin.com/in/ishaankoradia" target="_blank">Ishaan Koradia</a>
+</div>
 
 <!-- Tech Stack Here */  -->
 
