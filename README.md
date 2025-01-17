@@ -12,7 +12,7 @@
 
 If you would like to connect, reach me at these platforms!
 
-<body>
+<body class="contact">
     <div class="key-value">
         <span class="key"> <img src="./assets/gmail-icon.png" width="20" height="15"> </span>
         <span class="colon">:</span>
